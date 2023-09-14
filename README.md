@@ -1,5 +1,5 @@
 # Hi, I'm Gurur 🌟 Welcome to my Github page 💻:
-🔭 I'm Gurur Aşer. I'm Software Engineering Student in Istanbul Aydin University. It's my freshman year.<br>🌱 I’m currently learning Python and Data Science Foundations<br>👓 I love researching and I'm planning to learn different languages for different purposes<br>📚 I love learning about history,technology and languages. I also love reading science-fiction books.
+🔭 I'm Gurur Aşer. I'm Sophomore Software Engineering Student in Istanbul Aydin University.<br>🌱 I’m currently learning Python and Data Science Foundations<br>👓 I love researching and I'm planning to learn different languages for different purposes<br>📚 I love learning about history,technology and languages. I also love reading science-fiction books.
 
 
 ## 🌐 Socials:
