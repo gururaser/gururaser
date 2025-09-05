@@ -1,5 +1,11 @@
-# Hi, I'm Gurur 🌟 Welcome to my Github page 💻:
-🔭 I'm Gurur Aşer. I'm Sophomore Software Engineering Student in Istanbul Aydin University.<br>🌱 I’m currently learning Python and Data Science Foundations<br>👓 I love researching and I'm planning to learn different languages for different purposes<br>📚 I love learning about history,technology and languages. I also love reading science-fiction books.
+# Hi, I'm Gurur 🌟 Welcome to my GitHub page 💻
+
+🎓 I'm a final-year **Software Engineering** student passionate about **AI technologies** and **automation**.  
+🔍 My main areas of interest include **semantic search**, **recommendation systems**, and **vector databases**.  
+⚡ I have practical experience with **Qdrant** and **Superlinked**, which I’ve used to build scalable and efficient search and recommendation systems.  
+🐍💡 I have hands-on experience in **Python** and **Go**, and I’ve also been working extensively with **Robotic Process Automation (RPA)**, particularly **UiPath**.  
+🚀 I enjoy creating **intelligent and efficient solutions** that address real-world problems.  
+
 
 
 ## 🌐 Socials:
